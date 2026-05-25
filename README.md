@@ -1,4 +1,4 @@
-# Mi Primer Repositorio Web
+# Exam 1
 
 Un proyecto sencillo para practicar HTML, CSS y JavaScript.
 
